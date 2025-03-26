@@ -33,4 +33,5 @@ Links and resources for education on Linked Open Data
 ### Linked Data Protocols
 
 ## Much More
-
+- [awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web)
+- [awesome-ontology](https://github.com/ozekik/awesome-ontology)
